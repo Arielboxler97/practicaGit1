@@ -1,0 +1,9 @@
+//[]  {}
+
+public class clasesita{
+
+
+	public static void main(String[] args){
+		System.out.printf("Esto es una prueba %2d  ", 100500 );
+	}
+}
